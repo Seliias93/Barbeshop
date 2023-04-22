@@ -95,7 +95,7 @@ img {
 	position: fixed;
 	top: 0;
 	width: 100%;
-	background: $amarelo; /* Amarelo */
+	background: $black; /* preto */
 	padding: 15px 0;
 	z-index: 10;
 	@include d(m) {
@@ -127,7 +127,7 @@ img {
 }
 
 .header_menu ul li a {
-	color: $black;
+	color: white;
 	font-weight: bold;
 	text-transform: uppercase;
 	letter-spacing: .1em;

@@ -626,9 +626,9 @@ img {
 }
 
 .btn {
-  border: 3px solid #fec63e;
+  border: 3px solid #ffffff;
   padding: 10px 30px;
-  color: #fec63e;
+  color:#ffffff;
   font-size: 14px;
   line-height: 20px;
   text-transform: uppercase;
@@ -638,8 +638,8 @@ img {
 }
 
 .btn:hover {
-  color: #FFF;
-  border-color: #FFF;
+  color: #0077ff;
+  border-color: #0077ff;
 }
 
 .btn.btn-preto:hover {
@@ -691,8 +691,7 @@ img {
   position: fixed;
   top: 0;
   width: 100%;
-  background: #fec63e;
-  /* Amarelo */
+  background: #000000;
   padding: 15px 0;
   z-index: 10;
 }
@@ -733,7 +732,7 @@ img {
 }
 
 .header_menu ul li a {
-  color: #000;
+  color: #ffffff;
   font-weight: bold;
   text-transform: uppercase;
   letter-spacing: .1em;
@@ -753,7 +752,7 @@ img {
 }
 
 .header_menu ul li a:hover, .header_menu ul li a.menu_ativo {
-  color: #FFF;
+  color: #0077ff;
 }
 
 @media only screen and (max-width: 767px) {
@@ -766,7 +765,7 @@ img {
 .introducao {
   width: 100%;
   height: 380px;
-  background: url("../img/bg.jpg") no-repeat center;
+  background: url("../ImgBarbearia/1.png") no-repeat center;
   background-size: cover;
   margin-top: 92px;
   text-align: center;
