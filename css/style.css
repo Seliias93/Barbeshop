@@ -918,11 +918,11 @@ img {
 }
 
 .portfolio .subtitulo {
-  color: #fec63e;
+  color: #00a1ff;
 }
 
 .portfolio .subtitulo:after {
-  background: #fec63e;
+  background: #00a1ff;
 }
 
 .portfolio_lista div:last-of-type {
@@ -943,7 +943,7 @@ img {
   width: 634px;
   height: 83px;
   display: block;
-  background: url("../img/linhas.png") no-repeat center;
+  background: url("../ImgBarbearia/") no-repeat center;
   position: absolute;
   top: 209px;
   right: 162px;
