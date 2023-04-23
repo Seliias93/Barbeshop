@@ -468,6 +468,7 @@ h1, h2, h3, h4, h5, h6, p, a, ul {
 
 .grid-8 {
   width: 460px;
+  margin-bottom: 20px
 }
 
 .grid-9 {
@@ -886,8 +887,9 @@ img {
 }
 
 .produtos_lista li p {
-  padding: 10px 20px 20px 20px;
+  padding: 10px 51px 20px 20px;
 }
+
 
 .produtos_icone {
   background: #000;
@@ -926,7 +928,7 @@ img {
 }
 
 .portfolio_lista div:last-of-type {
-  margin-top: 20px;
+  margin-top: -1px;
 }
 
 .portfolio .call p {
@@ -1026,7 +1028,7 @@ img {
 .footer h3 {
   font-size: 18px;
   line-height: 25px;
-  color: #fec63e;
+  color: #00a1ff;
   text-transform: uppercase;
   letter-spacing: .1em;
   font-weight: bold;
@@ -1037,7 +1039,7 @@ img {
   display: block;
   width: 60px;
   height: 3px;
-  background: #fec63e;
+  background:#00a1ff;
   margin: 6px 0 12px 0;
 }
 
@@ -1057,7 +1059,7 @@ img {
 }
 
 .footer_redes ul li a {
-  border: 3px solid #fec63e;
+  border: 3px solid #00a1ff;
   display: block;
   padding: 10px;
   transition: all .5s ease;
@@ -1065,7 +1067,7 @@ img {
 
 @media only screen and (min-width: 768px) and (max-width: 959px) {
   .footer_redes ul li a {
-    border: 3px solid #fec63e;
+    border: 3px solid #00a1ff;
     display: block;
     padding: 6px;
   }
@@ -1084,7 +1086,8 @@ img {
 
 .copy {
   width: 100%;
-  background: #fec63e;
+  background:#ffffff;
+  ;
   padding: 20px 0;
 }
 
