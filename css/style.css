@@ -693,7 +693,7 @@ img {
   top: 0;
   width: 100%;
   background: #000000;
-  padding: 15px 0;
+  padding: 7px 0;
   z-index: 10;
 }
 
@@ -843,6 +843,7 @@ img {
   font-size: 36px;
   font-weight: bold;
   text-transform: uppercase;
+  padding-top: 15px;
 }
 
 .introducao-interna h1:after {
@@ -1135,7 +1136,7 @@ img {
 }
 
 .interna_sobre {
-  background: url("../img/bg-sobre.jpg") no-repeat center;
+  background: url("../ImgBarbearia/federico-tonini-5WttPbwX73c-unsplash\ \(1\).jpg") no-repeat center;
   background-size: cover;
 }
 
@@ -1511,8 +1512,8 @@ img {
 }
 
 .rslides_tabs li a:hover, .rslides_tabs li.rslides_here a {
-  background: #fec63e;
-  color: #fec63e;
+  background: #00a1ff;
+  color: #00a1ff;
 }
 
 .interna_contato {
@@ -1547,7 +1548,7 @@ img {
 .contato_form input {
   display: block;
   width: 100%;
-  border: 4px solid #fec63e;
+  border: 4px solid #00a1ff;
   background: none;
   padding: 7px 10px;
   margin-bottom: 10px;
@@ -1561,7 +1562,7 @@ img {
   display: block;
   width: 100%;
   height: 120px;
-  border: 4px solid #fec63e;
+  border: 4px solid #00a1ff;
   background: none;
   padding: 7px 10px;
   margin-bottom: 20px;
@@ -1584,7 +1585,7 @@ img {
   font-size: 18px;
   line-height: 25px;
   text-transform: uppercase;
-  color: #fec63e;
+  color: #00a1ff;
   font-weight: bold;
 }
 
@@ -1610,13 +1611,13 @@ img {
 }
 
 .contato_dados ul li a {
-  border: 3px solid #fec63e;
+  border: 3px solid #00a1ff;
   display: block;
   padding: 10px;
 }
 
 .contato_dados ul li a:hover {
-  border-color: #000;
+  border-color: #006dac;
 }
 
 .contato_mapa {
